@@ -1,0 +1,20 @@
+{
+  "name": "meme-app-backend",
+  "version": "1.0.0",
+  "description": "v.2 of Memesfr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reillyjodonnell/meme-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reillyjodonnell/meme-app/issues"
+  },
+  "homepage": "https://github.com/reillyjodonnell/meme-app#readme"
+}
